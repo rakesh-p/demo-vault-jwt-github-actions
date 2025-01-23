@@ -1,0 +1,5 @@
+vault_address       = "https://my-vault-instance.com"
+vault_token         = "hvs.xxxxxxx"
+github_organization = "github_username_or_org"
+github_repo_name    = "github_repo_name"
+github_token        = "github_personal_access_token"

@@ -21,7 +21,7 @@ Thanks to my colleagues as this repo was inspired by their work.
 
 ## Usage
 
-Update the TFVARS file [example_values.tfvars](./opentofu/example_values.tfvars) as appropriate.
+Update the TFVARS file [values.tfvars_example](./opentofu/values.tfvars_example) as appropriate. Change the extension to .tfvars
 
 ```
 cd opentofu/
